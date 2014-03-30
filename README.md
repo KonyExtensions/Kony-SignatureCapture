@@ -4,8 +4,8 @@ Kony-SignatureCapture
 Android FFI Module for Signature Capture. Targetted for Tablets
 
 <b>Support:</b><br/>
-Supported on API Level 11(Honeycomb) and above
-To support mobile devices, change below in CaptureSignature onCreate as per appropriate layout width/height
+Supported on API Level 11(Honeycomb) and above<br/>
+To support mobile devices, change below in CaptureSignature onCreate as per appropriate layout width/height<br/>
 LinearLayout.LayoutParams localLayoutParams1 = new LinearLayout.LayoutParams(900, 500);
 
 <b>Integration steps:</b><br/>
